@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.silverbeam.scmweapons.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "RapierItemEnchants"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

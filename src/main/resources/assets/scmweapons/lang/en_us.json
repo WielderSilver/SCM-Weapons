@@ -1,0 +1,12 @@
+{
+  "item.scmweapons.wood_rapier": "Wooden Rapier",
+  "item.scmweapons.stone_rapier": "Stone Rapier",
+  "item.scmweapons.iron_rapier": "Iron Rapier",
+  "item.scmweapons.gold_rapier": "Gold Rapier",
+  "item.scmweapons.diamond_rapier": "Diamond Rapier",
+  "item.scmweapons.netherite_rapier": "Netherite Rapier",
+
+
+  "itemGroup.scmweapons.scmweapons": "SCM Weapons Tab"
+
+}
